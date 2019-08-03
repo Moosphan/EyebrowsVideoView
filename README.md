@@ -5,7 +5,7 @@
 
 Let's see the difference between **`VideoView`** and **`EyebrowsVideoView`**. First, we usually face the problem by using `VideoView`：
 
-![videoview](https://github.com/Moosphan/EyebrowsVideoView/blob/82203a29d8faea3809145f6775d05d4613b48b53/art/normal_preview.png)
+![videoview](https://github.com/Moosphan/EyebrowsVideoView/blob/163c4970684e2e446bf3ebb82ba2d8d7dcd7c0f1/art/normal_preview.png)
 
 It is obvious that the video playback area is not completely paved. You can deal this problem by using `EyebrowsVideoView`：
 
