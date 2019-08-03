@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EyebrowsVideoView">
+        <attr name="scaleType" format="enum">
+            <enum name="fit_center" value="0"/>
+            <enum name="center_crop" value="1"/>
+            <enum name="left_crop" value="2"/>
+            <enum name="top_crop" value="3"/>
+            <enum name="right_crop" value="4"/>
+            <enum name="bottom_crop" value="5"/>
+        </attr>
+    </declare-styleable>
+</resources>
